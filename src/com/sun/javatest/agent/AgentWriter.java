@@ -60,14 +60,6 @@ class AgentWriter extends Writer {
      */
     @Override
     public synchronized void write(int ch) throws IOException {
-        buf[count++] = (char) ch;
-        if (count == buf.length) {
-            try {
-                parent.sendChars(type, buf, 0, count);
-            } finally {
-                count = 0;
-            }
-        }
     }
 
     /**
@@ -79,7 +71,6 @@ class AgentWriter extends Writer {
      */
     @Override
     public void write(char c[]) throws IOException {
-        write(c, 0, c.length);
     }
 
     /**
@@ -92,22 +83,6 @@ class AgentWriter extends Writer {
      */
     @Override
     public synchronized void write(char c[], int off, int len) throws IOException {
-        if (len < buf.length - count) {
-            // there is room for the bytes in the current buffer
-            System.arraycopy(c, off, buf, count, len);
-            count += len;
-        } else {
-            // not room in the current buffer, so flush it
-            flush();
-            if (len < buf.length) {
-                // there is _now_ enough room in the current buffer, so use it
-                System.arraycopy(c, off, buf, count, len);
-                count += len;
-            } else {
-                // current buffer not big enough; send data directly
-                parent.sendChars(type, c, off, len);
-            }
-        }
     }
 
     /**
@@ -118,21 +93,6 @@ class AgentWriter extends Writer {
      */
     @Override
     public synchronized void flush() throws IOException {
-        if (count > 0) {
-            switch (type) {
-                case Agent.LOG:
-                    type = Agent.LOG_FLUSH;
-                    break;
-                case Agent.REF:
-                    type = Agent.REF_FLUSH;
-                    break;
-            }
-            try {
-                parent.sendChars(type, buf, 0, count);
-            } finally {
-                count = 0;
-            }
-        }
     }
 
     /**
@@ -144,6 +104,5 @@ class AgentWriter extends Writer {
      */
     @Override
     public void close() throws IOException {
-        flush();
     }
 }
