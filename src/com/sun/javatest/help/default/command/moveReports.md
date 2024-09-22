@@ -52,6 +52,7 @@ Example:\
 
 **RETURN CODE**
 :   The following table describes the return codes that the program displays when it exits.
+
       Code   Description
       ------ ---------------------------------------------------
       0      The copy was successful.
