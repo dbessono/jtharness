@@ -32,4 +32,4 @@ Example](../../images/TemplateProp.gif){width="540" height="288" border="0"}
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2011, Oracle and/or its affiliates. All rights reserved.
+

@@ -26,4 +26,4 @@ The following table describes the contents of the selected task tabbed pane.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

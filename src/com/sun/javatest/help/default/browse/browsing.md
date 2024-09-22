@@ -27,4 +27,4 @@ This chapter is divided into the following topics:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

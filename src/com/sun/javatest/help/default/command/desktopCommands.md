@@ -18,4 +18,4 @@ When starting the harness you can use options in the command line to perform the
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

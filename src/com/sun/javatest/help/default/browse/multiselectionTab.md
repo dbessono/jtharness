@@ -23,4 +23,4 @@ selected in the test tree.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2009, Oracle and/or its affiliates. All rights reserved.
+

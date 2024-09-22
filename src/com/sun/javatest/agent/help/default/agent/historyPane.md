@@ -44,4 +44,4 @@ describes the states that a task might have.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2010, Oracle and/or its affiliates. All rights reserved.
+

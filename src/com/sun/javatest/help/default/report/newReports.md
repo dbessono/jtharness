@@ -453,4 +453,4 @@ identification.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2015, Oracle and/or its affiliates. All rights reserved.
+

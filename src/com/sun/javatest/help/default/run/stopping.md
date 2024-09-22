@@ -24,4 +24,4 @@ Reports](../report/usingReports.html) for detailed information about test report
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

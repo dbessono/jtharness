@@ -56,4 +56,3 @@ the harness.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](copyright.html) © 2002, 2013, Oracle and/or its affiliates. All rights reserved.

@@ -57,4 +57,4 @@ Click the appropriate status information tab to identify the individual tests in
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2010, Oracle and/or its affiliates. All rights reserved.
+

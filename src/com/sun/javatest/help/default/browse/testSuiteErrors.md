@@ -23,4 +23,4 @@ otherwise, report any test suite errors to the owner of the test suite.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

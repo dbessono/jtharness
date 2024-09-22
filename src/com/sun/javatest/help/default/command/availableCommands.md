@@ -28,4 +28,3 @@ The following table describes all of the commands available in command mode.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2012, Oracle and/or its affiliates. All rights reserved.

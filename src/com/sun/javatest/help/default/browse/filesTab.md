@@ -17,4 +17,4 @@ Choose a file from the drop-down list to display its contents.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

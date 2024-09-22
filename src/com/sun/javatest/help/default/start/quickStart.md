@@ -90,4 +90,4 @@ Until you provide both a work directory and a valid configuration file, you cann
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

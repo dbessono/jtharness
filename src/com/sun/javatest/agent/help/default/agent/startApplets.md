@@ -148,4 +148,4 @@ The following two types of parameters can be included in the applet tag:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

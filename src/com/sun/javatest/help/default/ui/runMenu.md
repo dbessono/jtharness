@@ -47,4 +47,4 @@ The following table describes the default items in the Run Tests menu.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2010, Oracle and/or its affiliates. All rights reserved.
+

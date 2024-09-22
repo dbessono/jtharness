@@ -48,4 +48,4 @@ The Log Viewer enables you to perform the following actions when monitoring outp
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2011, Oracle and/or its affiliates. All rights reserved.
+

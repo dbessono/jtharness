@@ -99,4 +99,4 @@ of services. See [Monitoring Services](../run/svcViewer.html) for a detailed des
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2011, Oracle and/or its affiliates. All rights reserved.
+

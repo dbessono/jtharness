@@ -173,4 +173,4 @@ The following table describes the two types of options used in the command line.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

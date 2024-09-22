@@ -87,4 +87,3 @@ The actual timeout calculation for any particular test suite might vary.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2015, Oracle and/or its affiliates. All rights reserved.

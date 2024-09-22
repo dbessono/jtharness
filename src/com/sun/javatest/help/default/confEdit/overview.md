@@ -43,4 +43,4 @@ This chapter contains the following topics:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

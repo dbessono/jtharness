@@ -47,4 +47,3 @@ Click the Help button to display context-sensitive help.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2010, Oracle and/or its affiliates. All rights reserved.

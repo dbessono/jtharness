@@ -27,4 +27,3 @@ to move reports.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2014, Oracle and/or its affiliates. All rights reserved.

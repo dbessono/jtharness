@@ -44,4 +44,4 @@ See [Displaying Test Information](../browse/testInfo.html) for detailed informat
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2009, Oracle and/or its affiliates. All rights reserved.
+

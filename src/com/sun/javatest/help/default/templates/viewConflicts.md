@@ -17,4 +17,4 @@ The Conflicts tab displays a record of the most recent propagation update confli
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2009, Oracle and/or its affiliates. All rights reserved.
+

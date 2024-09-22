@@ -16,4 +16,4 @@ Line](../../images/JT4wrkdirStatusLine.gif){longdesc="workDirStatus.html"}
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2009, Oracle and/or its affiliates. All rights reserved.
+

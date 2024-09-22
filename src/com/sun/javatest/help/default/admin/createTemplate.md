@@ -36,4 +36,4 @@ enabled in both the template and the derived configurations.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2011, Oracle and/or its affiliates. All rights reserved.
+

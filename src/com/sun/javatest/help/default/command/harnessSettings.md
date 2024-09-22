@@ -63,4 +63,4 @@ If you use an active agent and run the harness from the command line, you must a
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2010, Oracle and/or its affiliates. All rights reserved.
+

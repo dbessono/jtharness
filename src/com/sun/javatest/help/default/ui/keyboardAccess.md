@@ -197,4 +197,4 @@ following table lists the key that are used to activate GUI components.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2010, Oracle and/or its affiliates. All rights reserved.
+

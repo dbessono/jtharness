@@ -70,4 +70,4 @@ directory for the test suite, template, and configuration file combination.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

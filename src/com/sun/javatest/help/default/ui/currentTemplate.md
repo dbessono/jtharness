@@ -15,4 +15,3 @@ the menu bar or choosing the Current Template view filter from the tool bar.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2007, 2010, Oracle and/or its affiliates. All rights reserved.

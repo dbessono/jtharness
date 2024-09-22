@@ -47,4 +47,4 @@ available as menu items from the menu bar:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2009, Oracle and/or its affiliates. All rights reserved.
+

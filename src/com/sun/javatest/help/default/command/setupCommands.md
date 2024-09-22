@@ -37,4 +37,4 @@ For additional information about using setup commands see the following topics:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

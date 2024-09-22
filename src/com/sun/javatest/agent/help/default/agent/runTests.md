@@ -34,4 +34,4 @@ monitor JT Harness harness agents when running tests.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2009, Oracle and/or its affiliates. All rights reserved.
+

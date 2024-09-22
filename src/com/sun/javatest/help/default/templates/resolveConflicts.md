@@ -35,4 +35,4 @@ Choose a dialog button based on the following guidelines:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2009, Oracle and/or its affiliates. All rights reserved.
+

@@ -22,4 +22,4 @@ The following table describes the contents of the Preferences dialog box.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2011, Oracle and/or its affiliates. All rights reserved.
+

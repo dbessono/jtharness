@@ -90,4 +90,4 @@ The terms \"Java Virtual Machine\" and \"JVM\" mean a Virtual Machine for the Ja
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

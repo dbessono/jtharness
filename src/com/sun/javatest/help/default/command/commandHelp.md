@@ -81,4 +81,4 @@ The online help is also available in PDF format in the harness documentation dir
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2012, Oracle and/or its affiliates. All rights reserved.
+

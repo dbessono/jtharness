@@ -196,4 +196,4 @@ Java runtime environment.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2012, Oracle and/or its affiliates. All rights reserved.
+

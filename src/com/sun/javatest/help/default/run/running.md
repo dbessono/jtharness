@@ -51,4 +51,3 @@ tests:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2014, Oracle and/or its affiliates. All rights reserved.

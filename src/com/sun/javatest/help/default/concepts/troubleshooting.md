@@ -199,4 +199,4 @@ You must update these links when moving reports to other directories. The harnes
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2011, Oracle and/or its affiliates. All rights reserved.
+

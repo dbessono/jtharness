@@ -43,4 +43,4 @@ formats.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2013, Oracle and/or its affiliates. All rights reserved.
+

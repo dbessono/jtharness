@@ -15,4 +15,4 @@ harness is restarted the Configuration Editor uses this preference as the defaul
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2009, Oracle and/or its affiliates. All rights reserved.
+

@@ -43,4 +43,4 @@ For information about using desktop tools to perform tasks, see the following to
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2012, Oracle and/or its affiliates. All rights reserved.
+

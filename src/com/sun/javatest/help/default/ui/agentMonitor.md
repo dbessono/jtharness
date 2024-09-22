@@ -20,4 +20,4 @@ description of using the Agent Monitor tool.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2009, Oracle and/or its affiliates. All rights reserved.
+

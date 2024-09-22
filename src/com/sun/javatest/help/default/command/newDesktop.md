@@ -30,4 +30,4 @@ Start](../ui/appearancePrefs.html#appearancePrefs.restore) was disabled from the
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

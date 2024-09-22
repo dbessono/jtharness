@@ -49,4 +49,4 @@ following list of actions as a guide when troubleshooting problems running activ
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2011, Oracle and/or its affiliates. All rights reserved.
+

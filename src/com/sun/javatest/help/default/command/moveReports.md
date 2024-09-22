@@ -75,4 +75,3 @@ separators (/) to run these examples.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2010, Oracle and/or its affiliates. All rights reserved.

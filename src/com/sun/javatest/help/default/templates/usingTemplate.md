@@ -36,4 +36,4 @@ a user does any of the following:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2009, Oracle and/or its affiliates. All rights reserved.
+

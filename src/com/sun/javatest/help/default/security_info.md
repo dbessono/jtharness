@@ -92,4 +92,3 @@ the privileges inherited when the new command/process executes.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](copyright.html) © 2013, Oracle and/or its affiliates. All rights reserved.

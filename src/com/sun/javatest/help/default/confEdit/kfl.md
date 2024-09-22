@@ -46,4 +46,3 @@ For more information, see [KFL Options in HTML Reports](../report/newReports.htm
 Failures List Reports](../report/newReports.html#knownFailureListReports), and [Known Failure
 Analysis](../report/newReports.html#kfanalysis).
 
-[Copyright](../copyright.html) © 2012, Oracle and/or its affiliates. All rights reserved.

@@ -28,4 +28,4 @@ The following three ways can be used to obtain a configuration question *tag-nam
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2009, Oracle and/or its affiliates. All rights reserved.
+

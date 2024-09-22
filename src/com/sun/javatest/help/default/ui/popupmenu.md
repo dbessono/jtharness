@@ -188,4 +188,4 @@ To clear test results, you must have an open work directory.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

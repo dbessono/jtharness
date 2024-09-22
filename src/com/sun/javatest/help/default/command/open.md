@@ -38,4 +38,4 @@ command files.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

@@ -45,4 +45,4 @@ before an agent is available, the harness reports an error for the test.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

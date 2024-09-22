@@ -29,4 +29,4 @@ Configuration](editConfiguration.html).
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2011, Oracle and/or its affiliates. All rights reserved.
+

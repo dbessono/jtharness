@@ -39,4 +39,3 @@ closing the dialog.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2010, Oracle and/or its affiliates. All rights reserved.

@@ -121,4 +121,3 @@ the test harness GUI.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2013, Oracle and/or its affiliates. All rights reserved.

@@ -104,4 +104,4 @@ This example stars the GUI. This combination of commands does the following, in 
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2009, Oracle and/or its affiliates. All rights reserved.
+

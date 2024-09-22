@@ -14,4 +14,4 @@ Example:\
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2009, Oracle and/or its affiliates. All rights reserved.
+

@@ -55,4 +55,4 @@ Set the bug prefix URL for KFL reports.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

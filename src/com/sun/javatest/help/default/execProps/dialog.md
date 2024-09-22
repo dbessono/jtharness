@@ -63,4 +63,4 @@ might be identified in the Plug-Ins properties area.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2010, Oracle and/or its affiliates. All rights reserved.
+

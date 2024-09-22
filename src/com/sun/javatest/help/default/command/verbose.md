@@ -138,4 +138,4 @@ The following are seven examples of monitoring commands and their resulting comm
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

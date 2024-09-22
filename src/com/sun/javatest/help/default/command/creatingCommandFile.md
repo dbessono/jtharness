@@ -44,4 +44,4 @@ Choose a file name that helps you identify the function of each command file.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

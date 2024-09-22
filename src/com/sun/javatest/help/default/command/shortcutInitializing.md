@@ -23,4 +23,4 @@ string, *if specified, the commands must occur in the following sequence* :
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2009, Oracle and/or its affiliates. All rights reserved.
+

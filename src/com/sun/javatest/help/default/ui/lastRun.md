@@ -36,4 +36,4 @@ The following examples provide descriptions of the use of the Last Test Run view
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2009, Oracle and/or its affiliates. All rights reserved.
+

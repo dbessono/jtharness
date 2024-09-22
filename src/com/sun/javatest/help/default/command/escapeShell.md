@@ -23,4 +23,4 @@ To change a value in the command line, use the *tag-name* for the question that 
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2011, Oracle and/or its affiliates. All rights reserved.
+

@@ -18,4 +18,4 @@ Information about the following task commands can be found in the following topi
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2012, Oracle and/or its affiliates. All rights reserved.
+

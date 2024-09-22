@@ -221,4 +221,4 @@ The following table describes the parameters that configure the GUI for a serial
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.
+

@@ -22,4 +22,3 @@ See [Log Viewer](../ui/logViewer.html) for a detailed description of the Log Vie
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2010, Oracle and/or its affiliates. All rights reserved.

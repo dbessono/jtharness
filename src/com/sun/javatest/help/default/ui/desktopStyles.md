@@ -28,4 +28,4 @@ and functional options.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2006, 2011, Oracle and/or its affiliates. All rights reserved.
+

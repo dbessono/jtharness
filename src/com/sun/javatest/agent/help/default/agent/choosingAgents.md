@@ -109,4 +109,3 @@ Harness harness. The following table describes the types of agent and the commun
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2011, Oracle and/or its affiliates. All rights reserved.

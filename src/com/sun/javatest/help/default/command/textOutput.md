@@ -107,4 +107,4 @@ The following strings access specific information about the harness:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2010, Oracle and/or its affiliates. All rights reserved.
+

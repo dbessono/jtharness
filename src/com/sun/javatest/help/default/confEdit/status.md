@@ -73,4 +73,3 @@ then refine the filtering to reduce the number of tests in subsequent runs.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2014, Oracle and/or its affiliates. All rights reserved.

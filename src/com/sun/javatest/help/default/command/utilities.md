@@ -21,4 +21,4 @@ Information about using utilities to perform tasks can be found in the following
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2009, Oracle and/or its affiliates. All rights reserved.
+

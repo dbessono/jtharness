@@ -23,4 +23,4 @@ following:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2012, Oracle and/or its affiliates. All rights reserved.
+

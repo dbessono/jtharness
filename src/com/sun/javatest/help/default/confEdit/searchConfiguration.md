@@ -74,4 +74,4 @@ The following table describes the search criteria used in the Find Question dial
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2004, 2011, Oracle and/or its affiliates. All rights reserved.
+

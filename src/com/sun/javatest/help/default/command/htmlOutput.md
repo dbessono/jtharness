@@ -117,4 +117,4 @@ To stop the test run, you must click the STOP button on the page displayed in th
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2011, Oracle and/or its affiliates. All rights reserved.
+

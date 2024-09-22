@@ -74,4 +74,4 @@ character for the command to work on your platform.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2003, 2011, Oracle and/or its affiliates. All rights reserved.
+

@@ -16,4 +16,4 @@ following topics provide guidelines for troubleshooting each type of agent:
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

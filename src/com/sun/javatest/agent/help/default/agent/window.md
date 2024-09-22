@@ -55,4 +55,4 @@ The following table lists and describes the contents of the Agents Currently In 
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2010, Oracle and/or its affiliates. All rights reserved.
+

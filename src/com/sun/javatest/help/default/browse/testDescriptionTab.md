@@ -29,4 +29,4 @@ the test. The values are read from the files in the test suite.
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2001, 2009, Oracle and/or its affiliates. All rights reserved.
+

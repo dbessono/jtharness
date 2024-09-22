@@ -59,4 +59,4 @@ The following examples provide descriptions of the use of the Current Configurat
 
 ----------------------------------------------------------------------------------------------------
 
-[Copyright](../copyright.html) © 2002, 2009, Oracle and/or its affiliates. All rights reserved.
+
