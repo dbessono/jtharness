@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Viewing Configuration-Template Updates
----
 
 []{#viewConflict}
 

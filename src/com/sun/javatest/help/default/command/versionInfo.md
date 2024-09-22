@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Displaying JT Harness Version Information With version
----
 
 # Displaying Harness Version Information With `version`
 

@@ -1,7 +1,7 @@
 ---
-hIndent: 1
+
 lang: en
-title: Starting a JT Harness Agent
+
 ---
 
 []{#startAgent}

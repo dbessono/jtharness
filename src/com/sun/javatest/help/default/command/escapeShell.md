@@ -1,7 +1,3 @@
----
-hIndent: 3
-title: Doing Escapes in a UNIX Shell
----
 
 # [Doing Escapes in a UNIX System Shell]{#example3}
 

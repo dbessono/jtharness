@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Extended Command-Line Examples
----
 
 # Extended Command-Line Examples
 

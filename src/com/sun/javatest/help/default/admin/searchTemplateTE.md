@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Using Template Search
----
 
 # Using Template Search
 

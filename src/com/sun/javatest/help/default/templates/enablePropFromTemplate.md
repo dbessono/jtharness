@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Enabling Propagation
----
 
 []{#confedit.enablingPropagation}
 

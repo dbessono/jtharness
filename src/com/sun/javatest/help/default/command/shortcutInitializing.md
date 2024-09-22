@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Shortcuts to Initialize a Configuration
----
 
 # [Shortcuts to Initialize a Configuration]{#restrictions}
 

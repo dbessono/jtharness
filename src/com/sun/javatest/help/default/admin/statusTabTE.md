@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Editing Prior Status Settings
----
 
 # Editing Prior Status Settings {#editing-prior-status-settings .proc}
 

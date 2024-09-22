@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Viewing Test Manager Properties
----
 
 []{#execProps.dialog}
 

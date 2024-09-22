@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Starting an Agent Application
----
 
 []{#startApplication}
 

@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Specifying a Configuration File With config
----
 
 []{#config}
 

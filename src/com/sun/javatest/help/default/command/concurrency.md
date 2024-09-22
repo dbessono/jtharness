@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Setting Concurrency with concurrency
----
 
 []{#concurrency}
 

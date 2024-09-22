@@ -1,7 +1,3 @@
----
-hIndent: 3
-title: Using View Filters
----
 
 # [Using View Filters]{#filterEditor}
 

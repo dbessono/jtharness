@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Creating a Command File
----
 
 # Creating a Command File
 

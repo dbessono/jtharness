@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: List of Available Commands
----
 
 # [List of Available Commands]{#batchCommands}
 

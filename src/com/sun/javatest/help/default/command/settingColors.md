@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Specifying Look and Feel
----
 
 []{#settingLAF}
 

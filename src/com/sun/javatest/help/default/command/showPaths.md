@@ -1,7 +1,3 @@
----
-hIndent: 3
-title: Showing Paths for Debugging
----
 
 # [Showing Paths for Debugging]{#show}
 

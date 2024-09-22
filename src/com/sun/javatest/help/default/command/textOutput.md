@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Plain Text Output
----
 
 # Plain Text Output
 

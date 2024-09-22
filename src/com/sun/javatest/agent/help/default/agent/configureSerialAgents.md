@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Specifying Serial Agent Options
----
 
 []{#configureSerialAgents}
 

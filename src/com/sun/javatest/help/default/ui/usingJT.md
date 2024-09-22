@@ -1,7 +1,3 @@
----
-hIndent: 0
-title: Graphical User Interface
----
 
 []{#usingJT}
 

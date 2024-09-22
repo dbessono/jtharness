@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Examples of Using Command Files
----
 
 # Examples of Using Command Files
 

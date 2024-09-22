@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Creating a Map File
----
 
 []{#mapFile}
 

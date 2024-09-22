@@ -1,7 +1,3 @@
----
-hIndent: 4
-title: All Tests View Filter
----
 
 []{#allTests}[]{#allTests}
 

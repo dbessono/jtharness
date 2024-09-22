@@ -1,7 +1,7 @@
 ---
-hIndent: 1
+
 lang: en
-title: Creating Reports
+
 ---
 
 []{#newReports}

@@ -1,7 +1,3 @@
----
-hIndent: 0
-title: Monitoring JT Harness Agents
----
 
 []{#monitoring}
 

@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Agent Monitor Window
----
 
 []{#window}
 

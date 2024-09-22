@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Monitoring a Test Run
----
 
 []{#monitoring}
 

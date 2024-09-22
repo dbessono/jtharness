@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Stopping a Test Run
----
 
 []{#stopping}
 

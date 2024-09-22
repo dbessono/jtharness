@@ -1,7 +1,3 @@
----
-hIndent: 3
-title: Work Directory Status Line
----
 
 []{#workDirStatus}
 

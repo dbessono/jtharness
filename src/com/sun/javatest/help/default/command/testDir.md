@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Specifying Tests or Directories With tests
----
 
 []{#testDir}
 

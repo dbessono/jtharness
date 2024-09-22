@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: About the Examples
----
 
 # About the Examples
 

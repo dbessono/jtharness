@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Loading a Configuration
----
 
 # []{#load}Loading a Configuration {#loading-a-configuration .proc}
 

@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Editing a Template
----
 
 []{#editingTemplate}
 

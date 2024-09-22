@@ -1,7 +1,3 @@
----
-hIndent: 3
-title: Test Manager Preferences
----
 
 []{#testManager.preferences}
 

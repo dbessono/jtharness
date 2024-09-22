@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Specifying Exclude Lists With excludeList
----
 
 []{#excludeList}
 

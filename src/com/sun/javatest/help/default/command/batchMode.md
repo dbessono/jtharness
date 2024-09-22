@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Using the Batch Command
----
 
 []{#runTests}
 

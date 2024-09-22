@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Specifying Additional Agent Options
----
 
 []{#additionalOptions}
 

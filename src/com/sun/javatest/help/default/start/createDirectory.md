@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Creating a Work Directory
----
 
 # Creating a Work Directory
 

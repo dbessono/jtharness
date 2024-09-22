@@ -1,7 +1,3 @@
----
-hIndent: 0
-title: Information Commands
----
 
 []{#displayHelp}
 

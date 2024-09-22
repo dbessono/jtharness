@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Running Tests With runtests
----
 
 []{#runTests}
 

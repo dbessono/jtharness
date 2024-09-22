@@ -1,7 +1,3 @@
----
-hIndent: 3
-title: Echoing Results of Edits
----
 
 # [Echoing Results of Edits]{#echo}
 

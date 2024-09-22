@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Specifying Known Failures Lists With kfl
----
 
 []{#writeReportsKFL} []{#kfl}
 

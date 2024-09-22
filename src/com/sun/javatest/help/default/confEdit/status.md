@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Specifying Prior Status
----
 
 # Specifying Prior Status {#specifying-prior-status .proc}
 

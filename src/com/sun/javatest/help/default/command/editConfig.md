@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Changing Configuration Values With EditJTI
----
 
 []{#editConfig}
 

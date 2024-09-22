@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Specifying a Work Directory (workdir or workdirectory)
----
 
 []{#workdir}
 

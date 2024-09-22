@@ -1,7 +1,3 @@
----
-hIndent: 4
-title: Folder Icons
----
 
 []{#folderIcons}
 

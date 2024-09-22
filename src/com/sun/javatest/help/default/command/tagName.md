@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Obtaining the Question Tag-Name
----
 
 # []{#name}Obtaining the Question Tag-Name
 

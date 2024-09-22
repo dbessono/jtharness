@@ -1,7 +1,3 @@
----
-hIndent: 4
-title: Test Tree Pop-Up Menu
----
 
 []{#popupMenu}
 

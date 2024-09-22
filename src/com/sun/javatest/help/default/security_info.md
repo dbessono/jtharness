@@ -1,7 +1,3 @@
----
-hIndent: 0
-title: Important Security Information
----
 
 # Important Security Information
 
@@ -87,8 +83,4 @@ incorrect or malicious command can cause serious damage.
 
 The harness does not attempt to run commands with higher privileges than that of the current user or
 the privileges inherited when the new command/process executes.
-
- 
-
-----------------------------------------------------------------------------------------------------
 

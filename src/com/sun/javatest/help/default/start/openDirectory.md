@@ -1,7 +1,3 @@
----
-hIndent: 1
-title: Opening a Work Directory
----
 
 # Opening a Work Directory
 

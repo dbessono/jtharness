@@ -1,7 +1,3 @@
----
-hIndent: 0
-title: Changing Configuration Values with a Text Editor
----
 
 # Changing Configuration Values With Text Editors
 

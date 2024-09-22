@@ -1,7 +1,3 @@
----
-hIndent: 3
-title: Configuration Editor
----
 
 # Configuration Editor
 

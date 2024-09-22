@@ -1,7 +1,3 @@
----
-hIndent: 0
-title: Troubleshooting JT Harness Agents
----
 
 []{#troubleshooting}
 

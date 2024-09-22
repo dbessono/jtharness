@@ -1,7 +1,3 @@
----
-hIndent: 2
-title: Adding or Removing Exclude Lists
----
 
 []{#excludeListTE}
 
