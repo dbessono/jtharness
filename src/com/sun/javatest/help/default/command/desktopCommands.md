@@ -1,3 +1,7 @@
+---
+hIndent: 0
+title: Desktop Options and Preferences
+---
 
 # [Desktop Options and Preferences]{#settings}
 

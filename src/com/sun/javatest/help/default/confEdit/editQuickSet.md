@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Editing Quick Set Values
+---
 
 []{#editix}
 

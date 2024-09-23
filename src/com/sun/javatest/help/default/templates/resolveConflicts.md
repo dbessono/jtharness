@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Resolving Configuration-Template Conflicts
+---
 
 []{#resolveConflict}
 

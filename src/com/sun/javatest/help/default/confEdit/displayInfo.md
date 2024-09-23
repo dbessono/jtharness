@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Displaying Configuration Information
+---
 
 # Displaying Configuration Information
 

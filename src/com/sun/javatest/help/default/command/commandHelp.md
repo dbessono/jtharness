@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Command-Line Help
+---
 
 # Command-Line Help
 

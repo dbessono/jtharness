@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Searching a Configuration
+---
 
 # Searching a Configuration
 

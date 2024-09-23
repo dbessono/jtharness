@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Setting Standard Values
+---
 
 []{#standardValues}
 

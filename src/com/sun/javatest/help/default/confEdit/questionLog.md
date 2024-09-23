@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Displaying the Question Log
+---
 
 []{#questionLog}
 

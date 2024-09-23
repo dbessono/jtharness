@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Specifying Passive Agent Options
+---
 
 []{#configurePassiveAgents}
 

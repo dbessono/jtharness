@@ -1,3 +1,7 @@
+---
+hIndent: 0
+title: Command-Line Interface
+---
 
 []{#commandLineIntro}
 

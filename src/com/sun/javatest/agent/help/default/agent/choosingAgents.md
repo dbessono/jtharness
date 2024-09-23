@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Choosing the Type of Agent
+---
 
 []{#configureActiveAgents}
 

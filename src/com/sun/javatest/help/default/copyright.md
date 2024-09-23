@@ -1,3 +1,6 @@
+---
+title: Copyright Notice
+---
 
 **Copyright Notice**
 

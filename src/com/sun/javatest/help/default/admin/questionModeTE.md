@@ -1,3 +1,7 @@
+---
+hIndent: 4
+title: Question Mode
+---
 
 []{#fullTemplateEditor}
 

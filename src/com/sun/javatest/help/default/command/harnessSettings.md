@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Additional Setup Commands
+---
 
 []{#settings}
 

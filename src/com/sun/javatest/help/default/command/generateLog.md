@@ -1,3 +1,7 @@
+---
+hIndent: 3
+title: Generating a Log of Updates
+---
 
 # [Generating a Log of All Updates]{#generate}
 

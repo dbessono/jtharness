@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Specifying Active Agent Options
+---
 
 []{#configureActiveAgents}
 

@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Formatting a Command
+---
 
 # []{#format}Formatting a Command
 

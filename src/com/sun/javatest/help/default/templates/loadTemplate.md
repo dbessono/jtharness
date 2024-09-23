@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Loading a Template
+---
 
 []{#editingTemplate}
 

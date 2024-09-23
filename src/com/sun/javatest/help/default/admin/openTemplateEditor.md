@@ -1,3 +1,7 @@
+---
+hIndent: 3
+title: Template Editor
+---
 
 # Template Editor
 

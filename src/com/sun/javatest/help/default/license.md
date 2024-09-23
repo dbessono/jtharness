@@ -1,3 +1,6 @@
+---
+title: GNU General Public License
+---
 
 ::: {#content}
 ## GNU General Public License

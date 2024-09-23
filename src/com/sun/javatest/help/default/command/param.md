@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Setting Parameter Values (params)
+---
 
 # [Setting Parameter Values (`params`)]{#params}
 

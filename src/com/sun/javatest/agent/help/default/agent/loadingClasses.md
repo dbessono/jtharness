@@ -1,3 +1,7 @@
+---
+hIndent: 0
+title: Installing Agent Classes on a Test System
+---
 
 []{#configurePassiveAgents}
 

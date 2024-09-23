@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Opening a Test Suite, Work Directory or Configuration (open)
+---
 
 []{#open}
 

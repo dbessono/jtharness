@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Creating a Configuration
+---
 
 []{#createConfiguration}
 

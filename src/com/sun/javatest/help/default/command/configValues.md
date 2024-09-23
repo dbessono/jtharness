@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Formatting Configuration Values for editJTI or -set
+---
 
 # Formatting Configuration Values for `editJTI` or `-set`
 

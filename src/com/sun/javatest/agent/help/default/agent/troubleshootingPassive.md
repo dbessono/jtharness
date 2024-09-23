@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Troubleshooting Passive Agents
+---
 
 []{#monitoring}
 

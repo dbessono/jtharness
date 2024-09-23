@@ -1,3 +1,7 @@
+---
+hIndent: 1
+title: Desktop Startup Commands
+---
 
 # [Startup Commands]{#newdesktop}
 

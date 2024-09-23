@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Setting Preferences
+---
 
 []{#prefsDialog}
 

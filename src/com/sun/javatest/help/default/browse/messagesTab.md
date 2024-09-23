@@ -1,3 +1,7 @@
+---
+hIndent: 2
+title: Test Run Messages Pane
+---
 
 []{#messagesTab}
 

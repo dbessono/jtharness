@@ -1,3 +1,7 @@
+---
+hIndent: 0
+title: Creating and Editing Templates
+---
 
 []{#createConfigurationTemplate}
 

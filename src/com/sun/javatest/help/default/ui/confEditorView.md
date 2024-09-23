@@ -1,3 +1,7 @@
+---
+hIndent: 3
+title: Configuration Editor Preferences
+---
 
 # Configuration Editor Preferences
 

@@ -1,3 +1,7 @@
+---
+hIndent: 3
+title: Changing Configuration Values
+---
 
 # [Changing Configuration Values]{#edit}
 
