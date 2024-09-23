@@ -1,5 +1,5 @@
 ---
-title: GNU General Public License
+
 ---
 
 ::: {#content}
